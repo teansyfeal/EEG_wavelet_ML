@@ -11,7 +11,7 @@ This project is intended for researchers and developers interested in exploring 
 We have used the following references to develop this project:
  - [EEG Brainwave Dataset: Feeling Emotions](https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions?resource=download)
  - [Bianchi et al., 2020. Machine Learning-Based Emotion Classification Using Wavelet Transformed EEG Features](http://www.mdpi.com/1424-8220/20/6/1613)
- - [Craik et al., 2020. Classification of EEG Signals for Emotion Detection Using Wavelet Transform and Machine Learning (https://ieeexplore.ieee.org/abstract/document/9256135)
+ - [Craik et al., 2020. Classification of EEG Signals for Emotion Detection Using Wavelet Transform and Machine Learning](https://ieeexplore.ieee.org/abstract/document/9256135)
  - [Daubechies, I., 1992. Ten Lectures on Wavelets](https://doi.org/10.1090/psapm/066)
  
 Please refer to these papers for more detailed information on the methods and techniques used in this project.
